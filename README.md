@@ -1,2 +1,4 @@
-# NLP-with-Disaster-Tweets
-Predict which Tweets are about real disasters and which ones are not
+Competitions - Kaggle
+https://www.kaggle.com/competitions/nlp-getting-started/overview
+
+
